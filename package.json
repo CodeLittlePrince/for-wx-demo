@@ -1,0 +1,22 @@
+{
+  "name": "for-wx-demo",
+  "version": "1.0.0",
+  "description": "对应问题： [ios14小程序内嵌h5，上传文件会导致路由方法无法使用](https://developers.weixin.qq.com/community/develop/doc/000ecaf75702a85b8d1b5b7fe51000?fromCreate=0)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeLittlePrince/for-wx-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeLittlePrince/for-wx-demo/issues"
+  },
+  "homepage": "https://github.com/CodeLittlePrince/for-wx-demo#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
